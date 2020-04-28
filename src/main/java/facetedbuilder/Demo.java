@@ -1,7 +1,7 @@
-package builder;
+package facetedbuilder;
 
 /**
- * String builder example
+ * String facetedbuilder example
  * */
 
 public class Demo {

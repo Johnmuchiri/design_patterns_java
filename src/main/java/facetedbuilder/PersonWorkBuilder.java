@@ -1,4 +1,4 @@
-package builder;
+package facetedbuilder;
 
 public class PersonWorkBuilder extends PersonBuilder {
 

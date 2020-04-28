@@ -1,4 +1,4 @@
-package builder;
+package facetedbuilder;
 
 public class PersonBioDataBuilder extends PersonBuilder {
 
