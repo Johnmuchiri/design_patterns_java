@@ -1,4 +1,4 @@
-package com.dsp.org.builder;
+package builder;
 
 public class PersonAddressBuilder extends PersonBuilder {
 
